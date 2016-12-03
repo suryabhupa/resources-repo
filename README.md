@@ -1,4 +1,5 @@
 # blog-posts
+A list of resources, blog posts, and other tutorials that I've found useful.
 
 ### By Topic
 
