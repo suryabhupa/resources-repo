@@ -9,6 +9,9 @@ A running list of resources that I've found useful; includes tutorials, blog pos
 ##### Installing things
 * [Installing CUDA and cuDNN](http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/)
 
+#### Very useful repos
+* [Fork of torch-rnn with cuDNN compatibility](https://github.com/ngimel/torch-rnn#cudnn-support-optional)
+
 ### By Date
 
 ##### 12/2016
