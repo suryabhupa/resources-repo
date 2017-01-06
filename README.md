@@ -12,7 +12,13 @@ A running list of resources that I've found useful; includes tutorials, blog pos
 #### Very useful repos
 * [Fork of torch-rnn with cuDNN compatibility](https://github.com/ngimel/torch-rnn#cudnn-support-optional)
 
+#### Deep Learning
+* [Why Squared Error?](http://www.benkuhn.net/squared)
+
 ### By Date
+
+##### 01/2017
+* [Why Squared Error?](http://www.benkuhn.net/squared)
 
 ##### 12/2016
 * [Intro to Probabilistic Programming (Cornell lecture)](https://www.cs.cornell.edu/Courses/cs4110/2016fa/lectures/lecture33.html)
