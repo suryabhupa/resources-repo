@@ -15,10 +15,16 @@ A running list of resources that I've found useful; includes tutorials, blog pos
 #### Deep Learning
 * [Why Squared Error?](http://www.benkuhn.net/squared)
 
+
+#### Math
+* [Category Theory](https://arxiv.org/pdf/1612.09375v1.pdf)
+
 ### By Date
 
 ##### 01/2017
 * [Why Squared Error?](http://www.benkuhn.net/squared)
+* [Category Theory](https://arxiv.org/pdf/1612.09375v1.pdf)
+
 
 ##### 12/2016
 * [Intro to Probabilistic Programming (Cornell lecture)](https://www.cs.cornell.edu/Courses/cs4110/2016fa/lectures/lecture33.html)
