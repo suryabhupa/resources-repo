@@ -15,11 +15,16 @@ A running list of resources that I've found useful; includes tutorials, blog pos
 #### Deep Learning
 * [Why Squared Error?](http://www.benkuhn.net/squared)
 
-
 #### Math
 * [Category Theory](https://arxiv.org/pdf/1612.09375v1.pdf)
 
+#### Miscellaneous 
+* [How to Learn On Your Own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
+
 ### By Date
+
+##### 04/2017
+* [How to Learn On Your Own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
 ##### 01/2017
 * [Why Squared Error?](http://www.benkuhn.net/squared)
