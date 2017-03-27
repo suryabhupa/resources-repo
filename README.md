@@ -20,11 +20,14 @@ A running list of resources that I've found useful; includes tutorials, blog pos
 
 #### Miscellaneous 
 * [How to Learn On Your Own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
+* [Rationality Checklist](http://rationality.org/resources/rationality-checklist)
 
 ### By Date
 
-##### 04/2017
+##### 03/2017
 * [How to Learn On Your Own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
+* [Rationality Checklist](http://rationality.org/resources/rationality-checklist)
+
 
 ##### 01/2017
 * [Why Squared Error?](http://www.benkuhn.net/squared)
