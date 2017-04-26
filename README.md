@@ -21,4 +21,5 @@ A running list of resources that I've found useful; includes tutorials, blog pos
 #### Miscellaneous 
 * [How to Learn On Your Own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 * [Rationality Checklist](http://rationality.org/resources/rationality-checklist)
+* [How to Become Insanely Well-Connected](http://firstround.com/review/how-to-become-insanely-well-connected/)
 * [Google's Great AI Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html) (tl;dr: Google Brain was founded and did amazing things; cat paper made waves, and Google Translate replaced their entire system and was deployed in nine months. AI is about making tools and solving problems, not just building a mind?)
