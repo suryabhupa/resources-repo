@@ -5,6 +5,7 @@ A running list of resources that I've found useful; includes tutorials, blog pos
 
 ##### Probabilistic Programming
 * [Intro to Probabilistic Programming (Cornell lecture)](https://www.cs.cornell.edu/Courses/cs4110/2016fa/lectures/lecture33.html)
+* [Modeling Agents with Probabilistic Programming](http://agentmodels.org/)
 
 ##### Installing things
 * [Installing CUDA and cuDNN](http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/)
@@ -21,5 +22,5 @@ A running list of resources that I've found useful; includes tutorials, blog pos
 #### Miscellaneous 
 * [How to Learn On Your Own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 * [Rationality Checklist](http://rationality.org/resources/rationality-checklist)
-* [How to Become Insanely Well-Connected](http://firstround.com/review/how-to-become-insanely-well-connected/)
+* [How to Become Insanely Well-Connected](http://firstround.com/review/how-to-become-insanely-well-connected/) (tl;dr: A wonderful set of useful more-or-less common sense ideas to make sure you leave a good impression on people and build genuine relationships over the years.)
 * [Google's Great AI Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html) (tl;dr: Google Brain was founded and did amazing things; cat paper made waves, and Google Translate replaced their entire system and was deployed in nine months. AI is about making tools and solving problems, not just building a mind?)
