@@ -20,6 +20,11 @@ A running list of resources that I've found useful; includes tutorials, blog pos
 #### Math
 * [Category Theory](https://arxiv.org/pdf/1612.09375v1.pdf)
 
+#### Web 
+##### Parallax effects
+* [tilt.js](https://gijsroge.github.io/tilt.js/)
+* [CSS effects](https://codepen.io/anon/pen/jmGPGX)
+
 #### Miscellaneous 
 * [How to Learn On Your Own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 * [Rationality Checklist](http://rationality.org/resources/rationality-checklist)
