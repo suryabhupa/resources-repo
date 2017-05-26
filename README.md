@@ -16,6 +16,7 @@ A running list of resources that I've found useful; includes tutorials, blog pos
 #### Deep Learning
 * [Why Squared Error?](http://www.benkuhn.net/squared)
 * [Deep Learning Paper Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+* [Deep Learning Resource Guide](http://p.migdal.pl/2017/04/30/teaching-deep-learning.html)
 
 #### Math
 * [Category Theory](https://arxiv.org/pdf/1612.09375v1.pdf)
