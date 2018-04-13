@@ -20,6 +20,7 @@ A running list of resources that I've found useful; includes tutorials, blog pos
 
 #### Math
 * [Category Theory](https://arxiv.org/pdf/1612.09375v1.pdf)
+* [Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf)
 
 #### Web 
 ##### Parallax effects
